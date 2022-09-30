@@ -1,0 +1,18 @@
+This is some work I have done on a dataset all about avocado prices.
+
+I began with cleaning and formating the table to make it easier to read and manipilate the data.
+
+alter table dbo.avocado
+alter column small_4046 int
+
+
+alter table dbo.avocado
+alter column large_4225 int
+
+
+alter table dbo.avocado
+alter column XL_4770 int
+
+alter table dbo.avocado
+alter column AveragePrice decimal(3,2)
+
